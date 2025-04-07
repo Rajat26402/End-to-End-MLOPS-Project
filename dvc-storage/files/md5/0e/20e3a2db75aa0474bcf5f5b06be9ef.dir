@@ -1,0 +1,1 @@
+[{"md5": "05041be74a5d8c3fb30208ed7b6f4648", "relpath": "logistic_regression.pkl"}, {"md5": "7ddb9c2da4eaf0c0517c0164c516e665", "relpath": "naive_bayes.pkl"}, {"md5": "e8e35ecb70b8a49feeb00d713d17dc82", "relpath": "random_forest.pkl"}, {"md5": "5cd96140bfd61f9d26e5e277cd37f2d1", "relpath": "tfidf_vectorizer.pkl"}]

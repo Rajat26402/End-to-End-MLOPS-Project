@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/965584759883914852/5ef0549e8abf4dfd873e6494e18a66d4/artifacts
+deleted_time: 1744016688691
+end_time: 1744005321079
+entry_point_name: ''
+experiment_id: '965584759883914852'
+lifecycle_stage: deleted
+run_id: 5ef0549e8abf4dfd873e6494e18a66d4
+run_name: likeable-mule-606
+run_uuid: 5ef0549e8abf4dfd873e6494e18a66d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744005238252
+status: 4
+tags: []
+user_id: Rajat

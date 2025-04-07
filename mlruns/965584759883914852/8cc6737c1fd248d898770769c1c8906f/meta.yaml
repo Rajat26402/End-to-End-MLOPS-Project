@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965584759883914852/8cc6737c1fd248d898770769c1c8906f/artifacts
+end_time: 1744017061672
+entry_point_name: ''
+experiment_id: '965584759883914852'
+lifecycle_stage: active
+run_id: 8cc6737c1fd248d898770769c1c8906f
+run_name: Fake News Training Session
+run_uuid: 8cc6737c1fd248d898770769c1c8906f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744016967617
+status: 3
+tags: []
+user_id: Rajat

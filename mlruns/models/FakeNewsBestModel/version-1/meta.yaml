@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744018017093
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1744018017194
+name: FakeNewsBestModel
+run_id: 5bc8b25025a341c786df09608b0158bf
+run_link: ''
+source: mlflow-artifacts:/965584759883914852/5bc8b25025a341c786df09608b0158bf/artifacts/best_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/965584759883914852/5bc8b25025a341c786df09608b0158bf/artifacts/best_model
+user_id: null
+version: 1

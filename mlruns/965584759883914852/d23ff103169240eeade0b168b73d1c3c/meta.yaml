@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/965584759883914852/d23ff103169240eeade0b168b73d1c3c/artifacts
+deleted_time: 1744016688692
+end_time: 1744005447752
+entry_point_name: ''
+experiment_id: '965584759883914852'
+lifecycle_stage: deleted
+run_id: d23ff103169240eeade0b168b73d1c3c
+run_name: upbeat-hare-749
+run_uuid: d23ff103169240eeade0b168b73d1c3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744005368595
+status: 4
+tags: []
+user_id: Rajat

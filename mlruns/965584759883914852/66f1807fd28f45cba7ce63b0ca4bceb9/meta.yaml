@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/965584759883914852/66f1807fd28f45cba7ce63b0ca4bceb9/artifacts
+end_time: 1744017057428
+entry_point_name: ''
+experiment_id: '965584759883914852'
+lifecycle_stage: active
+run_id: 66f1807fd28f45cba7ce63b0ca4bceb9
+run_name: random_forest_depth_15
+run_uuid: 66f1807fd28f45cba7ce63b0ca4bceb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744017052071
+status: 3
+tags: []
+user_id: Rajat
